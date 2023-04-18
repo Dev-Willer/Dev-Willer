@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!!!;+Meu+nome+é+Lucas+Carvalho;+Sou+graduado+em+Engenharia+Mecatrônica)](https://git.io/typing-svg)
+[![Typing SVG][(https://readme-typing-svg.herokuapp.com/?color=d93a7c&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!!!;+Meu+nome+é+Lucas+Carvalho;+Sou+graduado+em+Engenharia+Mecatrônica)](https://git.io/typing-svg)
 
 
 
@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lucasjcc&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasjcc&bg_color=000000&color=ffffff&line=e01b24&point=e01b24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasjcc&bg_color=000000&color=ffffff&line=d93a7c&point=d93a7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Sobre:</h3>
 <p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Tenho graduação, pós-graduação, mestrado e, atualmente, faço doutorado nas áreas da Eletrônica e Computação.</p>
@@ -47,4 +47,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=footer"/>
