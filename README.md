@@ -20,8 +20,7 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-jorge-carvalho/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/lucas-jorge-carvalho/" /></a>
-<a href="lucasjorge.cap@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lucasjorge.cap@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/lucas-jorge-carvalho/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <h3 align="left">Tecnologias:</h3>
