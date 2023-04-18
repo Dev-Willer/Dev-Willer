@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasjcc&show_icons=true&theme=radical" alt="Lucas Carvalho's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=FF007F&text_color=FF007F&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=d93a7c&text_color=a9fef7&bg_color=0d1117" />
 </div>
 
 <p align="center">
