@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d93a7c&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!!!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!!!)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasjcc&show_icons=true&theme=radical" alt="Lucas Carvalho's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=d93a7c&text_color=a9fef7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasjcc&show_icons=true&theme=outrun" alt="Lucas Carvalho's GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasjcc&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasjcc&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasjcc&bg_color=000000&color=ffffff&line=d93a7c&point=d93a7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasjcc&bg_color=141439&color=f9c701&line=f9c701&point=f9c701&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Sobre:</h3>
 <p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Tenho graduação, pós-graduação, mestrado e, atualmente, faço doutorado nas áreas da Eletrônica e Computação.</p>
@@ -47,4 +47,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
