@@ -10,7 +10,8 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasjcc&bg_color=141439&color=f9c701&line=f9c701&point=f9c701&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasjcc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h3 align="left">Sobre:</h3>
 <p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Tenho graduação, pós-graduação, mestrado e, atualmente, faço doutorado nas áreas da Eletrônica e Computação.</p>
