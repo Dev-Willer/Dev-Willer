@@ -14,7 +14,7 @@
 
 
 <h3 align="left">Sobre:</h3>
-<p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Tenho graduação, pós-graduação, mestrado e, atualmente, faço doutorado nas áreas da Eletrônica e Computação.</p>
+<p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Sou graduado e especializado na área de engenharia. Atualmente, faço doutorado em Engenharia Eletrônica e Computação.</p>
 
 <p>Tenho trabalhos realizados e publicados nas áreas de sistemas nebulosos, computação evolucionária, otimização multiobjetivo, técnicas de reconhecimento de padrões em dados (SVD e HOSVD) e controle de sistemas não lineares. Possuo conhecimento de redes neurofuzzy, identificação de sistema e estimação de parâmetros e lógica do pensamento matemático.</p>
 
@@ -24,17 +24,17 @@
 <a href="https://www.linkedin.com/in/lucas-jorge-carvalho/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Tecnologias que mais uso:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,jest,postgres,mongo,matlab,html,css,arduino,py,c,cs,cpp,git,gitlab,github,docker,heroku" />
+    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,jest,postgres,matlab,html,css,arduino,git,gitlab,github" />
   </a>
 </p>
 
-<h3 align="left">Estudando:</h3>
+<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,r,pytorch" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,docker,heroku" />
   </a>
 </p>
 
