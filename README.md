@@ -1,8 +1,22 @@
 <h2 align="left">Hi 👋! My name is Willer Santos and I'm a Fullstack developer</h2>
 
-###
+<img align="right" height="35" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
+
+
+
+- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital e Desenvolvimento Full-stack na Cubos Academy
+- 🌱 Atualmente estou aprendendo React.Js, Banco de Dados SQL, NoSQL e CRUD
+- 👯 Estou procurando me desenvolver da melhor maneira possivel para atuar como Back-end ou Full-stack
+- 💬 Pergunte-me sobre qualquer coisa, uma boa conversa e um café é o que temos por aqui!
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Sou extremamente apaixonado por tecnologia, comunicativo, alegre e sempre com senso de lider não importa onde esteja. 
+
+
+
+
+
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 
 ###
 
@@ -45,5 +59,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
