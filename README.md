@@ -5,12 +5,12 @@
 
 
 
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital e Desenvolvimento Full-stack na Cubos Academy
-- 🌱 Atualmente estou aprendendo React.Js, Banco de Dados SQL, NoSQL e CRUD
-- 👯 Estou procurando me desenvolver da melhor maneira possivel para atuar como Back-end ou Full-stack
+- 🔭 Atualmente estou cursando Enganharia de Software pela Descomplica Faculdade Digital e Desenvolvimento Full-stack na Cubos Academy
+- 🌱 Atualmente estou aprendendo React.Js, Banco de Dados SQL, NoSQL
+- 👯 Estou procurando me desenvolver da melhor maneira possivel para atuar como Back-end ou Full-stack, ainda buscando a minha primeira oportunidade na área. 
 - 💬 Pergunte-me sobre qualquer coisa, uma boa conversa e um café é o que temos por aqui!
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Sou extremamente apaixonado por tecnologia, comunicativo, alegre e sempre com senso de lider não importa onde esteja. 
+- ⚡ Curiosidade: Sou extremamente apaixonado por tecnologia, comunicativo, alegre, com senso de lider autonomia e dedicação. 
 
 <div align="left"
 
