@@ -12,9 +12,12 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Sou extremamente apaixonado por tecnologia, comunicativo, alegre e sempre com senso de lider não importa onde esteja. 
 
-<div align="left">
+<div align="left"
+
   [![card](https://github-readme-stats.vercel.app/api?username=Dev-Willer&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Willer&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
