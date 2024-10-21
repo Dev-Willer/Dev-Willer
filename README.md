@@ -14,9 +14,9 @@
 
 
 <h3 align="left">Sobre:</h3>
-<p>Sou apaixonado por tecnologia e, desde de 2013, dedico meus estudos e experiências profissionais à área. Sou graduado e especializado na área de engenharia. Atualmente, faço doutorado em Engenharia Eletrônica e Computação.</p>
+<p>Sou apaixonado por tecnologia e, desde de 2020, dedico meus estudos à área. Graduando em Engenharia de Software. Atualmente, faço Curso de Desenvolvimento Full-stack Java pela EBAC e Desenvolvimento Full-stack pela Cubos Academy.</p>
 
-<p>Tenho trabalhos realizados e publicados nas áreas de sistemas nebulosos, computação evolucionária, otimização multiobjetivo, técnicas de reconhecimento de padrões em dados (SVD e HOSVD) e controle de sistemas não lineares. Possuo conhecimento de redes neurofuzzy, identificação de sistema e estimação de parâmetros e lógica do pensamento matemático.</p>
+<p> Possuo experiência em desenvolvimento de páginas web estaticas e dinamicas utilizando Javascript e React. Possuo também experiência na construção de APIs seguindo o padrão Rest e Resfull, modelagem, e gestão de banco de dados, além de manutenção e criação de aplicações robustas e escaláveis. No momento estou aperfeiçoando os meus conhecimentos em Java, Framework Spring, e testes utilizando JUNIT. </p>
 
 
 <h3 align="left">Contatos:</h3>
