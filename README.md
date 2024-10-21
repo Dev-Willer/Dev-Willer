@@ -16,7 +16,7 @@
 <h3 align="left">Sobre:</h3>
 <p>Sou apaixonado por tecnologia e, desde de 2020, dedico meus estudos à área. Graduando em Engenharia de Software. Atualmente, faço Curso de Desenvolvimento Full-stack Java pela EBAC e Desenvolvimento Full-stack pela Cubos Academy.</p>
 
-<p> Possuo experiência em desenvolvimento de páginas web estaticas e dinamicas utilizando Javascript e React. Possuo também experiência na construção de APIs seguindo o padrão Rest e Resfull, modelagem, e gestão de banco de dados, além de manutenção e criação de aplicações robustas e escaláveis. No momento estou aperfeiçoando os meus conhecimentos em Java, Framework Spring, e testes utilizando JUNIT. </p>
+<p> Possuo experiência em desenvolvimento de páginas web estáticas e dinâmicas utilizando Javascript e React. Possuo também experiência na construção de APIs seguindo o padrão Rest e Resfull, modelagem, e gestão de banco de dados, além de manutenção e criação de aplicações robustas e escaláveis. No momento estou aperfeiçoando os meus conhecimentos em Java, Framework Spring, e testes utilizando JUNIT. </p>
 
 
 <h3 align="left">Contatos:</h3>
