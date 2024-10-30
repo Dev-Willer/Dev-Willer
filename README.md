@@ -27,7 +27,7 @@
 <h3 align="left">Tecnologias que mais uso:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,jest,postgres,html,css,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,sql,prisma,cypress,postgres,sass,less,jquery,vuejs,ajax,html,css,git,gitlab,github" />
   </a>
 </p>
 
