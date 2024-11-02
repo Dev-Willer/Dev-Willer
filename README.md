@@ -27,14 +27,14 @@
 <h3 align="left">Tecnologias que mais uso:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,cypress,postgres,sass,less,jquery,vuejs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,node,postgresql" />
   </a>
 </p>
 
 <h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker" />
+    <img src="https://skillicons.dev/icons?i=docker, aws" />
   </a>
 </p>
 
