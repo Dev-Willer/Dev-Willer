@@ -24,17 +24,4 @@
   </a>
 </p>
 
-<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker, aws" />
-  </a>
-</p>
-
-<div align="center">
-<br><p align="centre"><b>Visitantes:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Willer}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
