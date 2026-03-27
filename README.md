@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Willer&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
-</div>
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Willer&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
